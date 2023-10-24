@@ -9,6 +9,18 @@ import torch
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 import gensim.downloader as api
 
+import subprocess
+
+subprocess.run(['pip', 'install', 'spacy'])
+subprocess.run(['pip', 'install', 'nltk'])
+
+subprocess.run(['python', '-m', 'spacy', 'download', 'en_core_web_sm'])
+
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
+
+
 class ChatBot:
     def __init__(self, dialog_data_file, product_data_file, use_llm=False):
         try:
