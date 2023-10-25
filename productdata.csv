@@ -1,0 +1,8 @@
+Product Name,Product Description,Product Category,Price,Brand,Model,Availability,Technical Specifications,Ratings and Reviews,Product ID
+MacBook Air,Ultra-thin laptop with Retina display and Apple's M1 chip,Laptops,$999,Apple,MacBook Air (2022),In Stock,"13.3"" Retina display, 8GB RAM, 256GB SSD, Apple M1 chip",4.8 based on 1000 reviews,MACBKAIR2022
+Samsung Galaxy S21,Flagship Android smartphone with a stunning display and powerful camera,Smartphones,$799,Samsung,Galaxy S21,Out of Stock,"6.2"" Dynamic AMOLED display, 8GB RAM, 128GB storage, 64MP camera",4.7 based on 2500 reviews,SGALS21
+Sony WH-1000XM4,Premium noise-canceling headphones for an immersive audio experience,Headphones,$349,Sony,WH-1000XM4,In Stock,"Active noise cancellation, 30-hour battery life, touch controls",4.9 based on 800 reviews,SNY1000XM4
+Dell XPS 13,High-performance laptop with a near-borderless InfinityEdge display,Laptops,"$1,199",Dell,XPS 13 (2022),In Stock,"13.4"" InfinityEdge display, 16GB RAM, 512GB SSD, Intel Core i7",4.6 based on 1200 reviews,DELLXPS13
+Apple Watch Series 7,The latest smartwatch from Apple with enhanced fitness and health features,Wearables,$399,Apple,Watch Series 7,Preorder,"Bigger always-on display, fall detection, ECG app",N/A,APPLEWATCH7
+LG OLED C1,4K OLED TV with stunning picture quality and smart TV features,Televisions,"$1,499",LG,"OLED C1 (55"")",In Stock,"55"" OLED display, Dolby Vision, webOS, AI ThinQ",4.9 based on 1500 reviews,LGOLEDC1
+Nikon D850,Professional DSLR camera with high resolution and 4K video recording,Cameras,"$2,999",Nikon,D850,In Stock,"45.7MP sensor, 4K UHD video, 153-point AF system",4.7 based on 600 reviews,NIKOND850
