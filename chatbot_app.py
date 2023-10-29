@@ -1,5 +1,5 @@
 import streamlit as st
-from app import ChatBot
+from chatbot import ChatBot
 
 # Set the page title and favicon (optional)
 st.set_page_config(page_title="RAAR Chatbot", page_icon="🤖")
